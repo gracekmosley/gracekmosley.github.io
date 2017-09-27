@@ -1,0 +1,10 @@
+.readmore{
+  background-color: blue;
+    width: 400px;
+    height:200px;
+}
+.moretext{
+    display: none;
+        width: 400px;
+    height:200px;
+}
